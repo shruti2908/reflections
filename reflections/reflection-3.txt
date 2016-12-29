@@ -1,1 +1,1 @@
-when do you want to create a remote respository rather than keeping all your work local?
+when do you want to create a remote respository rather tan keeping all your work local?
